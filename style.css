@@ -24,15 +24,15 @@
 .escola-imagem{
     width: 50%;
 }
-
-.escola{
-    background-color: lineargradient(black; pink);
-    background-image: 
-    color:rgb(255, 255, 255);
+.escola {
+    background: linear-gradient(to bottom, black, pink); /* Cor de fundo com gradiente linear */
+    color: rgb(255, 255, 255); 
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 24px 0;
+}
+
 }
 
 .escola-div-conteudo{
